@@ -35,6 +35,7 @@ Interestingly, the year **2020** had the highest number of film releases on the 
 ## 📂 Contents
 
 - `imdb_analysis.ipynb`: Jupyter notebook with code & visuals
+- `movie-netflix.csv` – The raw Netflix dataset used in the project  
 - `README.md`: This project summary
 
 ---
@@ -58,14 +59,4 @@ Interestingly, the year **2020** had the highest number of film releases on the 
 
 ---
 
-## 🔗 GitHub Repository
-
-[👉 View on GitHub](https://github.com/Sh1vamBhaskar/IMDB-Score-Analysis)
-
----
-
-## 👨‍💻 About Me
-
-Developed by **Shivam Bhaskar**, a second-year B.Tech CSE student at SRM University.  
-Passionate about data science, full-stack development, and mobile app design.
 
